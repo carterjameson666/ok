@@ -14,3 +14,4 @@ uuu
 ttt
 hold
 gameen
+control
